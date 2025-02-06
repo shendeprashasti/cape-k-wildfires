@@ -32,6 +32,11 @@ authors:
     orcid: https://orcid.org/009-0001-5270-235X
     website: https://github.com/deepa707
     affiliation: University of Wollongong
+   - family-names: Burgess
+    given-names: Luke
+    orcid: https://orcid.org/0009-0004-2660-4870
+    website: https://github.com/LukeBurgessClimate
+    affiliation: University of Melbourne
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
